@@ -12,6 +12,13 @@
 ### Sorting and Searching
 - [Distinct Numbers](/Sorting_and_Searching/distinct_numbers.cpp)
 
+### Dynamic Programming
+- [Dice Combinations](/Dynamic_Programming/dice_combinations.cpp)
+- [Minimizing Coins](/Dynamic_Programming/minimizing_coins.cpp)
+- [Coin Combinations I](/Dynamic_Programming/coin_combinations1.cpp)
+- [Coin Combinations II](/Dynamic_Programming/coin_combinations2.cpp)
+- [Edit Distance](/Dynamic_Programming/edit_distance.cpp)
+
 ### Tree Algorithms
 - [Subordinates](/Tree_Algorithms/subordinates.cpp)
 - [Tree Diameter](/Tree_Algorithms/tree_diameter.cpp)
