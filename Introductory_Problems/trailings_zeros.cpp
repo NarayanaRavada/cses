@@ -1,14 +1,19 @@
 /*
 .*  author: lakshmi_narayana
-.*  created: 15.12.23 20:09:56
+.*  created: 16.12.23 12:41:35
 */
 
 #include <bits/stdc++.h>
 using namespace std;
 
+
 int main() {
     int n; cin >> n;
-    int mid = max(n - 4, 0) * max(n - 4, 0);
-    int border = max(n - 4, 0) * (6 + 4) * 4;
+    int res = 0;
+    while (n > 0) {
+        n /= 5;
+        res += n;
+    }
+    cout << res;
     return 0;
 }

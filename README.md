@@ -4,8 +4,8 @@ Accepted solutions for some of the problems in cses problem set, written in c++.
 
 | **Catergory**         | **Problems Solved** |
 |-----------------------|:-------------------:|
-| Introductory Problems |        6/19         |
-| Sorting and Searching |        0/35         |
+| Introductory Problems |        16/19        |
+| Sorting and Searching |        1/35         |
 | Dynamic Programming   |        11/19        |
 | Graph Algorithms      |        1/36         |
 | Range Queries         |        0/19         |
@@ -15,7 +15,7 @@ Accepted solutions for some of the problems in cses problem set, written in c++.
 | Geometry              |        0/7          |
 | Advanced Techniques   |        0/24         |
 | Additional Problems   |        0/77         |
-| **Total**             |      **21/300**     |
+| **Total**             |      **32/300**     |
 
 
 ## Table Of Contents
@@ -28,6 +28,15 @@ Accepted solutions for some of the problems in cses problem set, written in c++.
 - [Permutations](/Introductory_Problems/permutations.cpp)
 - [Number Spiral](/Introductory_Problems/number_spiral.cpp)
 - [Two Knights](/Introductory_Problems/two_knights.cpp)
+- [Two Sets](/Introductory_Problems/two_sets.cpp)
+- [Bit Strings](/Introductory_Problems/bit_strings.cpp)
+- [Trailing Zeros](/Introductory_Problems/trailings_zeros.cpp)
+- [Coin Piles](/Introductory_Problems/coin_piles.cpp)
+- [Palindromic Reorder](/Introductory_Problems/palindromic_reorder.cpp)
+- [Gray Code](/Introductory_Problems/gray_code.cpp)
+- [Tower Of Hanoi](/Introductory_Problems/tower_of_hanoi.cpp)
+- [Creating Strings](/Introductory_Problems/creating_strings.cpp)
+- [Apple Division](/Introductory_Problems/apple_division.cpp)
 
 ### Sorting and Searching
 - [Distinct Numbers](/Sorting_and_Searching/distinct_numbers.cpp)
